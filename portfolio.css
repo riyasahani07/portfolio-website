@@ -227,3 +227,15 @@ html{
     flex-direction: column;
     gap: 15px;
 }
+.social-icons{
+    margin-top: 20px;
+}
+.social-icons a{
+    color: white;
+    font-size: 30px;
+    margin: 0.15px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.social-icons a:hover{
+    transform: scale(1.2);
